@@ -9,5 +9,4 @@ Repositori ini merupakan bagian dari tugas kolaboratif pengembangan artikel meng
 
 ## Anggota:
 
-GITHUB
-
+=
