@@ -8,4 +8,4 @@ ini logonya
         print()
 ```
 
-sudahlah
+sudahlah dannnnnnnaAjfbI
