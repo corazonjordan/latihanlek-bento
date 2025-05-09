@@ -7,5 +7,4 @@ ini logonya
       def hallo
         print()
 ```
-
-sudahlah dannnnnnnaAjfbI
+sUDAHLAH DANNNN
