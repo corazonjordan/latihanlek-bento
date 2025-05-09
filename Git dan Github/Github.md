@@ -7,3 +7,5 @@ ini logonya
       def hallo
         print()
 ```
+
+sudahlah
