@@ -8,3 +8,4 @@ ini logonya
         print()
 ```
 sUDAHLAH DANNNN
+AYOO DAN
